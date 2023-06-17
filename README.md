@@ -31,7 +31,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
 </p>
 
+## Overall Analysis View
 
+<p align="center">
+    <img src='https://github.com/diveshpro/Hospitality-Analysis---Hotel-Chain-Business-/blob/main/codebasic.png' width="600">
+</p>
 
 ## Learnt things from this Project 
 - Learnt to build a new visual (Calendar visual) using matrix table, which can be utilized for different purpose of analyze. ([Article referred](https://www.linkedin.com/pulse/calendar-matrix-syed-ahmed-ali/?trackingId=VgyLpo%2BYxVRs8tD03PXcPQ%3D%3D))
@@ -48,3 +52,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 - AtliQ lost around 298 Million in cancellation 
 - Elite type rooms has the most booking and as well higher cancellation rate
+
+
+
+https://github.com/diveshpro/Hospitality-Analysis---Hotel-Chain-Business-/blob/main/codebasic.png
